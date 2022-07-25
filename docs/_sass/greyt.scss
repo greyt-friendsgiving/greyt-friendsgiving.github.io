@@ -1,0 +1,28 @@
+footer .wrapper {
+  background-image: url('/assets/background.png');
+}
+ 
+img.site-logo {
+  max-height: $base-line-height * $base-font-size * 5;
+  object-fit: contain;
+  float: left;
+  display: block;
+  position: relative;
+}
+
+.page-content a {
+  font-style: italic;
+  font-weight: bold;
+}
+
+header .wrapper {
+  display: flex;
+}
+
+header .site-title {
+  padding-right: $base-font-size * 1.2;
+}
+
+header .site-title, header nav {
+  align-self: flex-end;
+}
