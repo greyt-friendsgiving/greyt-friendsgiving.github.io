@@ -34,6 +34,24 @@ Note: I currently do not have a professional account
   </li>
   <li>
     <h5>Events, Fun and Games - 15 mins</h5>
+    <pre>
+Other event ideas to possibly incorporate:
+
+  bobbing for marshmellows
+
+  Tic tac toe, ring toss, poo toss
+
+  Oldest, youngest, tallest, longest tail
+
+  Relays
+
+  Frisbee toss
+
+  "Wet tee shirt contest
+
+  It is a running event.   Dogs & handlers run from a starting line to a kiddie pool full of water and extra large human tee shirts.   They have to pull the soaking wet tee shirts out of the water, wrestle then on to the greyhound & then run back to the finish line.     Great for hot days!   "
+
+    </pre>
     <ul>
       <li>Greyt Migration - Thursday 11/3 10:00AM</li>
       <li>Greytly dressed social - Thursday 11/3 - 6:00PM - 8:00PM</li>
