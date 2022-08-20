@@ -10,7 +10,7 @@ We're tentatively planning to meet to talk about the various things it takes to 
 
 Please don't hesitate to contact "Chris Berthold" in the Facebook group chat, if there are topics you feel need discussing.
 
-Note: I currently do not have a professional account
+Note: As of 8/20/2022 - 30 humanz - 60 Greyt Frendz
 
 <h4>Meeting link (TBD):</h4>
 <ul>
