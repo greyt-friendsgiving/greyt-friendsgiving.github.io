@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Zoom meeting - Tentative 8/27 6pm"
+title:  "Zoom meeting - 8/27 6pm"
 date:   2022-08-20 13:13:24 -0400
 categories: update meeting
 ---
@@ -13,9 +13,18 @@ Please don't hesitate to contact "Chris Berthold" in the Facebook group chat, if
 Note: As of 8/20/2022 - 30 humanz - 60 Greyt Frendz
 
 <h4>Meeting link (TBD):</h4>
-<ul>
-  <li>Will be updated week of and notification in chat</li>
-</ul>
+<pre>
+Chris Berthold is inviting you to a scheduled Zoom meeting.
+
+Topic: My Meeting
+Time: Aug 27, 2022 06:00 PM Eastern Time (US and Canada)
+
+Join Zoom Meeting
+https://us05web.zoom.us/j/87088973405?pwd=Uk5xd1J3ei90VDJ2eStXSFdKR2JnZz09
+
+Meeting ID: 870 8897 3405
+Passcode: DJc35z
+</pre>
 
 <h4>Current Agenda (this may be updated):</h4>
 
