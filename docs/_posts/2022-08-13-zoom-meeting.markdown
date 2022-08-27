@@ -6,13 +6,13 @@ categories: update meeting
 ---
 
 
-We're tentatively planning to meet to talk about the various things it takes to get a group of people and their houndies together for some fun.
+We're planning to meet to talk about the various things it takes to get a group of people and their houndies together for some fun.
 
 Please don't hesitate to contact "Chris Berthold" in the Facebook group chat, if there are topics you feel need discussing.
 
 Note: As of 8/20/2022 - 30 humanz - 60 Greyt Frendz
 
-<h4>Meeting link (TBD):</h4>
+<h4>Meeting link:</h4>
 <pre>
 Chris Berthold is inviting you to a scheduled Zoom meeting.
 
